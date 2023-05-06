@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\Adjacency\obj\Debug\Adjacency.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\Adjacency\obj\Debug\Adjacency.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\Adjacency\obj\Debug\Adjacency.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\Adjacency\bin\Debug\Adjacency.exe.config
+C:\Users\Wiz\Desktop\Adjacency\bin\Debug\Adjacency.exe
+C:\Users\Wiz\Desktop\Adjacency\bin\Debug\Adjacency.pdb
+C:\Users\Wiz\Desktop\Adjacency\obj\Debug\Adjacency.exe
+C:\Users\Wiz\Desktop\Adjacency\obj\Debug\Adjacency.pdb
